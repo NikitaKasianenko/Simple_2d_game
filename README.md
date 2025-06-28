@@ -18,7 +18,7 @@ The project demonstrates how to structure a Unity game using common architectura
 
 ## 🎥 Video Demo
 
-Watch the gameplay on [YouTube]([https://www.youtube.com/watch?v=your_video_id](https://youtu.be/aoCUX3_-aJ8)).
+Watch the gameplay on [YouTube](https://youtu.be/aoCUX3_-aJ8).
 
 ---
 
