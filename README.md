@@ -16,6 +16,10 @@ This project is a simple game created for learning purposes.
 
 The project demonstrates how to structure a Unity game using common architectural patterns and how to work with external libraries like DOTween.
 
+## 🎥 Video Demo
+
+Watch the gameplay on [YouTube]([https://www.youtube.com/watch?v=your_video_id](https://youtu.be/aoCUX3_-aJ8)).
+
 ---
 
 > Built as a learning project to practice clean game architecture and pattern implementation.
