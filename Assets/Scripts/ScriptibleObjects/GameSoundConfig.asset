@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 341111898c3bbfa499e27e91e507dbfb, type: 3}
+  m_Name: GameSoundConfig
+  m_EditorClassIdentifier: 
+  freeze: {fileID: 8300000, guid: 36e24d4308e811f4a83c2f38b75ef34a, type: 3}
+  doublePoint: {fileID: 8300000, guid: 7beb68a6390f4914e9093d88a04d7415, type: 3}
+  inGame: {fileID: 8300000, guid: effe8e8edea3e0044835406b9f2c917d, type: 3}
+  InMainMenu: {fileID: 8300000, guid: f06af8227b619924e9cfc78330de0b04, type: 3}
+  gameWin: {fileID: 8300000, guid: ccaf8285edf6d5e4ab5f409870351eab, type: 3}
+  gameOver: {fileID: 8300000, guid: 6d5f80e8eadebc144a2d78db4b9aa415, type: 3}
+  missClick: {fileID: 8300000, guid: cfe2721d88986bf4192b9c8ad98ace31, type: 3}
+  hitClick: {fileID: 8300000, guid: ee9d6ddd91ab394438d6000b8963bc3b, type: 3}

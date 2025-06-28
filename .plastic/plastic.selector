@@ -1,0 +1,4 @@
+repository "task_1/task_1@7972312082270@cloud"
+  path "/"
+    br "/main"
+    co "/main"

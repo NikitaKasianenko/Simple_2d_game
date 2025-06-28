@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce1f954fe0e2f1458486ae672374300, type: 3}
+  m_Name: GameDesignConfig
+  m_EditorClassIdentifier: 
+  targetSprites:
+  - {fileID: -6946007662723423348, guid: 377df7f8b654b9643b433ec457aefc65, type: 3}
+  - {fileID: 1926639436887605936, guid: f6db6930716aa924d98855d2c74d405c, type: 3}
+  - {fileID: -957879386499502390, guid: 9a4ec360942593942a8f740c17398674, type: 3}
+  - {fileID: -8845936816981686934, guid: f0ffca97876967e43bffba199f48d375, type: 3}
+  - {fileID: -5719797878352197133, guid: a3401c58311c5cd41b656dd253ed1a71, type: 3}
+  - {fileID: -2621512106615274732, guid: ee8cae92597aedb419953562a20c0d01, type: 3}
+  playableAreaAnchorMin: {x: 0.1, y: 0.05}
+  playableAreaAnchorMax: {x: 0.9, y: 0.85}
